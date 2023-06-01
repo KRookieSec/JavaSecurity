@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "9eae588091991528",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d9221fc68e95caf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc8b45074a072f0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1x02JavaSE——标识符关键字与修饰符.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b05364cd7a6e738",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1x02JavaSE——标识符关键字与修饰符.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "992a96700718e2c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1x02JavaSE——标识符关键字与修饰符.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5561bcb970546ad1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1x08JavaSE——注释与javadoc文档注释.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be7137837a966a5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1x03JavaSE——常量.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee3699193f49c150",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1x04JavaSE——变量与作用域.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c35de6ceeebeb4bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1x05JavaSE——数据类型与转换.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6996efc2f570ee57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1x06JavaSE——运算符.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2359a20b6f43aa3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7116f23ef6b0839",
+    "type": "split",
+    "children": [
+      {
+        "id": "15161765e9fd722c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7fa66ca19112df4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3dfb71480c9a751",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78591ebac3139c6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c22429ecb8fa92a",
+    "type": "split",
+    "children": [
+      {
+        "id": "139a43cd419ec832",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ef7a29c570d2dc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c053035f43162b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c49dc6932eef6fad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a94b8acfef39e859",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2359a20b6f43aa3e",
+  "lastOpenFiles": [
+    "0x01Java安全——Java代码审计基础与环境配置.md",
+    "README.md",
+    "1x02JavaSE——标识符关键字与修饰符.md",
+    "1x08JavaSE——注释与javadoc文档注释.md",
+    "1x01JavaSE——Java基础语法与编译运行.md",
+    "1x07JavaSE——直接量.md",
+    "1x06JavaSE——运算符.md",
+    "1x05JavaSE——数据类型与转换.md",
+    "1x04JavaSE——变量与作用域.md",
+    "1x03JavaSE——常量.md"
+  ]
+}
