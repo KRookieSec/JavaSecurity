@@ -8,103 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc8b45074a072f0e",
+            "id": "6b597c0e924a5a16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1x02JavaSE——标识符关键字与修饰符.md",
+                "file": "1x15JavaSE——正则.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7b05364cd7a6e738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1x02JavaSE——标识符关键字与修饰符.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "992a96700718e2c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1x02JavaSE——标识符关键字与修饰符.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5561bcb970546ad1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1x08JavaSE——注释与javadoc文档注释.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be7137837a966a5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1x03JavaSE——常量.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee3699193f49c150",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1x04JavaSE——变量与作用域.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c35de6ceeebeb4bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1x05JavaSE——数据类型与转换.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6996efc2f570ee57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1x06JavaSE——运算符.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2359a20b6f43aa3e",
+            "id": "91bd32ba0962b3cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -116,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,10 +159,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2359a20b6f43aa3e",
+  "active": "91bd32ba0962b3cc",
   "lastOpenFiles": [
-    "0x01Java安全——Java代码审计基础与环境配置.md",
+    "1x16JavaSE——方法.md",
     "README.md",
+    "1x15JavaSE——正则.md",
+    "1x14JavaSE——日期时间.md",
+    "1x13JavaSE——数组.md",
+    "1x12JavaSE——String类StringBuffer类和StringBuilder类.md",
+    "1x11JavaSE——Number和Math类.md",
+    "1x10JavaSE——条件语句.md",
+    "1x09JavaSE——循环结构.md",
+    "1x13Java——StringBuffer和StringBuilder类.md",
+    "0x01Java安全——Java代码审计基础与环境配置.md",
     "1x02JavaSE——标识符关键字与修饰符.md",
     "1x08JavaSE——注释与javadoc文档注释.md",
     "1x01JavaSE——Java基础语法与编译运行.md",

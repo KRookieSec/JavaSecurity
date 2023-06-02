@@ -11,6 +11,14 @@ Java代码审计的学习笔记
 	- [1x06JavaSE——运算符](1x06JavaSE——运算符.md)
 	- [1x07JavaSE——直接量](1x07JavaSE——直接量.md)
 	- [1x08JavaSE——注释与javadoc文档注释](1x08JavaSE——注释与javadoc文档注释.md)
+	- [1x09JavaSE——循环结构](1x09JavaSE——循环结构.md)
+	- [1x10JavaSE——条件语句](1x10JavaSE——条件语句.md)
+	- [1x11JavaSE——Number和Math类](1x11JavaSE——Number和Math类.md)
+	- [1x12JavaSE——String类StringBuffer类和StringBuilder类](1x12JavaSE——String类StringBuffer类和StringBuilder类.md)
+	- [1x13JavaSE——数组](1x13JavaSE——数组.md)
+	- [1x14JavaSE——日期时间](1x14JavaSE——日期时间.md)
+	- [1x15JavaSE——正则](1x15JavaSE——正则.md)
+	- [1x16JavaSE——方法](1x16JavaSE——方法.md)
 3. JavaWeb
 4. Java框架
 5. Java安全漏洞与代码审计
