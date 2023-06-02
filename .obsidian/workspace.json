@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1x15JavaSE——正则.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "91bd32ba0962b3cc",
+            "id": "a72fc9b009a9bfd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1x27JavaSE——包机制.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,10 +158,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "91bd32ba0962b3cc",
+  "active": "6b597c0e924a5a16",
   "lastOpenFiles": [
-    "1x16JavaSE——方法.md",
+    "1x27JavaSE——包机制.md",
     "README.md",
+    "1x26JavaSE——枚举.md",
+    "1x25JavaSE——接口.md",
+    "1x24JavaSE——封装.md",
+    "1x23JavaSE——抽象类.md",
+    "1x22JavaSE——多态.md",
+    "1x21JavaSE——重写与重载.md",
+    "1x20JavaSE——继承.md",
+    "1x19JavaSE——异常处理.md",
+    "1x18JavaSE——Scanner类.md",
+    "1x17JavaSE——流(Stream)文件(File)和IO.md",
+    "1x16JavaSE——方法.md",
     "1x15JavaSE——正则.md",
     "1x14JavaSE——日期时间.md",
     "1x13JavaSE——数组.md",
@@ -175,10 +185,6 @@
     "1x02JavaSE——标识符关键字与修饰符.md",
     "1x08JavaSE——注释与javadoc文档注释.md",
     "1x01JavaSE——Java基础语法与编译运行.md",
-    "1x07JavaSE——直接量.md",
-    "1x06JavaSE——运算符.md",
-    "1x05JavaSE——数据类型与转换.md",
-    "1x04JavaSE——变量与作用域.md",
-    "1x03JavaSE——常量.md"
+    "1x07JavaSE——直接量.md"
   ]
 }
