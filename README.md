@@ -31,5 +31,7 @@ Java代码审计的学习笔记
 	- [1x26JavaSE——枚举](1x26JavaSE——枚举.md)
 	- [1x27JavaSE——包机制](1x27JavaSE——包机制.md)
 3. JavaWeb
+	- [2x01JavaWeb——Servlet概述](2x01JavaWeb——Servlet概述.md)
+	- [2x02JavaWeb——Servlet容器](2x02JavaWeb——Servlet容器.md)
 4. Java框架
 5. Java安全漏洞与代码审计
