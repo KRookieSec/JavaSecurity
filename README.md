@@ -32,5 +32,6 @@ Java代码审计的学习笔记
 	- [1x27JavaSE——包机制](1x27JavaSE——包机制.md)
 3. JavaServlet
 	- [2x01JavaServlet——概述](2x01JavaServlet——Servlet概述.md)
-1. Java框架
-2. Java安全漏洞与代码审计
+	- [2x02JavaServlet——vscode配置maven与Servlet环境](2x02JavaServlet——vscode配置maven与Servlet环境.md)
+4. Java框架
+5. Java安全漏洞与代码审计

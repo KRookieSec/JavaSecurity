@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2x00JavaServlet/2x02JavaServlet——vscode配置maven与Servlet环境.md",
+                "file": "2x00JavaServlet/2x01JavaServlet——Servlet概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2x00JavaServlet/2x02JavaServlet——vscode配置maven与Servlet环境.md",
+                "file": "2x00JavaServlet/2x01JavaServlet——Servlet概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2x00JavaServlet/2x02JavaServlet——vscode配置maven与Servlet环境.md",
+                "file": "2x00JavaServlet/2x01JavaServlet——Servlet概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2x00JavaServlet/2x02JavaServlet——vscode配置maven与Servlet环境.md"
+                "file": "2x00JavaServlet/2x01JavaServlet——Servlet概述.md"
               }
             }
           }
@@ -160,6 +160,12 @@
   },
   "active": "6b597c0e924a5a16",
   "lastOpenFiles": [
+    "2x00JavaServlet/2x02JavaServlet——vscode配置maven与Servlet环境.md",
+    "2x00JavaServlet/2x01JavaServlet——Servlet概述.md",
+    "Pasted image 20230719214633.png",
+    "2x01JavaWeb——Servlet概述.md",
+    "2x02JavaWeb——Servlet容器.md",
+    "README.md",
     "2x00JavaServlet/img/2/18.png",
     "2x00JavaServlet/img/2/17.png",
     "2x00JavaServlet/img/2/16.png",
@@ -169,17 +175,12 @@
     "2x00JavaServlet/img/2/12.png",
     "2x00JavaServlet/img/2/11.png",
     "2x00JavaServlet/img/2/10.png",
-    "2x00JavaServlet/img/2/9.png",
-    "Pasted image 20230719214633.png",
     "2x00JavaServlet/img/2",
     "2x00JavaServlet/img/新建文件夹",
     "2x00JavaServlet/img",
     "2x00JavaServlet/新建文件夹",
     "1x00JavaSE/1x27JavaSE——包机制.md",
-    "2x00JavaServlet/2x02JavaServlet——vscode配置maven与Servlet环境.md",
     "0x01Java安全——Java代码审计基础与环境配置.md",
-    "README.md",
-    "2x00JavaServlet/2x01JavaServlet——Servlet概述.md",
     "2x00JavaServlet",
     "1x00JavaSE",
     "1x00JavaSE/1x26JavaSE——枚举.md",
@@ -199,8 +200,6 @@
     "1x00JavaSE/1x12JavaSE——String类StringBuffer类和StringBuilder类.md",
     "1x00JavaSE/1x11JavaSE——Number和Math类.md",
     "1x00JavaSE/1x10JavaSE——条件语句.md",
-    "1x00JavaSE/1x09JavaSE——循环结构.md",
-    "1x13Java——StringBuffer和StringBuilder类.md",
-    "1x00JavaSE/1x02JavaSE——标识符关键字与修饰符.md"
+    "1x00JavaSE/1x09JavaSE——循环结构.md"
   ]
 }
