@@ -42,15 +42,15 @@
 	
 	![11.png](./img/2/11.png)
 2. 但是由于使用的是maven的默认源，创建的时候会下载很多依赖文件，由于国内网络的特殊原因，可能会很慢，有的下载会卡很久，因此建议先给maven换国内源，修改maven的ssetting.xml文件，将mirror部分修改如下，使用阿里云的镜像源，然后使用maven创建java项目的时候就可以很快完成创建了。
-	```xml
+	```html
 	<mirror>  
         <id>alimaven</id>  
         <name>aliyun maven</name>  
         <url>http://maven.aliyun.com/nexus/content/groups/public/</url>  
         <mirrorOf>central</mirrorOf>          
     </mirror>
-```
-3. 创建完成后，在src/main下自己新建一个专门存放java文件的目录，根据需要在webapp/WEB-INF下创建专门存放jsp文件的目录
+	```
+1. 创建完成后，在src/main下自己新建一个专门存放java文件的目录，根据需要在webapp/WEB-INF下创建专门存放jsp文件的目录
 
 	 ![12.png](./img/2/12.png)
 4. 按照前文所述，将Servlet依赖添加到Maven Dependencies中。创建一个HTTPServlet的类，如下
