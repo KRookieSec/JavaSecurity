@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2x00JavaServlet/2x02JavaServlet——vscode配置maven与Servlet环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2x00JavaServlet/2x02JavaServlet——vscode配置maven与Servlet环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2x00JavaServlet/2x02JavaServlet——vscode配置maven与Servlet环境.md"
               }
             }
           }
@@ -159,11 +158,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a72fc9b009a9bfd0",
+  "active": "6b597c0e924a5a16",
   "lastOpenFiles": [
+    "README.md",
     "1x00JavaSE/1x27JavaSE——包机制.md",
     "2x00JavaServlet/2x02JavaServlet——vscode配置maven与Servlet环境.md",
-    "README.md",
     "2x00JavaServlet/2x01JavaServlet——Servlet概述.md",
     "Pasted image 20230719214633.png",
     "2x01JavaWeb——Servlet概述.md",
