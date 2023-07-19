@@ -42,7 +42,7 @@
 	
 	![11.png](./img/2/11.png)
 2. 但是由于使用的是maven的默认源，创建的时候会下载很多依赖文件，由于国内网络的特殊原因，可能会很慢，有的下载会卡很久，因此建议先给maven换国内源，修改maven的ssetting.xml文件，将mirror部分修改如下，使用阿里云的镜像源，然后使用maven创建java项目的时候就可以很快完成创建了。
-	``` xml
+	```xml
 	<mirror>  
         <id>alimaven</id>  
         <name>aliyun maven</name>  
