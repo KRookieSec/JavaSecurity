@@ -60,19 +60,19 @@
 	
 	![14.png](./img/2/14.png)
 6. 修改web.xml的web-app如下
-``` xml
-	<web-app>
-	  <display-name>Archetype Created Web Application</display-name>
-	  <servlet>
-	    <servlet-name>MyServlet</servlet-name>
-	    <servlet-class>com.myservlet.MyServlet</servlet-class>
-	  </servlet>
-	  <servlet-mapping>
-	    <servlet-name>MyServlet</servlet-name>
-	    <url-pattern>/MyServlet</url-pattern>
-	  </servlet-mapping>
-	</web-app>
-```
+	``` xml
+		<web-app>
+		  <display-name>Archetype Created Web Application</display-name>
+		  <servlet>
+		    <servlet-name>MyServlet</servlet-name>
+		    <servlet-class>com.myservlet.MyServlet</servlet-class>
+		  </servlet>
+		  <servlet-mapping>
+		    <servlet-name>MyServlet</servlet-name>
+		    <url-pattern>/MyServlet</url-pattern>
+		  </servlet-mapping>
+		</web-app>
+	```
 7. 写好之后 ctrl + shift + p使用maven执行命令，选择compile编译项目
 	
 	![15.png](./img/2/15.png)
