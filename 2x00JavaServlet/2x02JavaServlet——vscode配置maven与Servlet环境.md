@@ -38,6 +38,7 @@
 1. 使用maven创建好Java项目后，vscode的资源管理界面下方会出现一个JAVA PROJECTS，里面有一个Maven Dependencies选项，这是依赖选项，把需要添加的jar依赖包添加到这里即可
 2. 点击Maven Dependencies右侧的+，在弹出的搜索框中输入servlet回车，在搜索出来的结果中选择javax.servlet即可
 # 五、创建项目与Servlet
+## 方法一：web.xml指向Servlet类
 1. ctrl + shift + p，创建Java项目——>Maven——>maven-archetype-webapp，即可创建JavaWeb项目
 	
 	![11.png](./img/2/11.png)
@@ -86,3 +87,27 @@
 10. 然后就可以在浏览器中访问这个项目了
 	
 	![18.png](./img/2/18.png)
+## 方法二：设置注解指定Servlet类访问路径
+1. 新建一个Servlet类，如下，在类的上方通过@设置一个WebServlet注解，指定Servlet类的浏览器访问路径
+``` java
+package com.myservlet; 
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.ServletRequest;
+import javax.servlet.ServletResponse;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet; 
+
+@WebServlet("/servlet01") //设置注解，指定Servlet类的访问路径
+public class HelloServlet extends HttpServlet {
+    @Override
+    public void service(ServletRequest req, ServletResponse res) throws ServletException, IOException {
+        //通过流输出数据到浏览器
+        System.out.println("Hello, Servlet!");
+        res.getWriter().write("Hello,Servlet!");
+    }
+}
+```
+2. 浏览器访问IP:8080/demo01/servlet01，即IP:PORT/项目名/指定的路径名，即可访问该Servlet类
+	![19.png](./img/2/19.png)
