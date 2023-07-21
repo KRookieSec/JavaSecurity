@@ -33,5 +33,7 @@ Java代码审计的学习笔记
 3. JavaServlet
 	- [2x01JavaServlet——概述](2x00JavaServlet/2x01JavaServlet——Servlet概述.md)
 	- [2x02JavaServlet——vscode配置maven与Servlet环境](2x00JavaServlet/2x02JavaServlet——vscode配置maven与Servlet环境.md)
-4. Java框架
-5. Java安全漏洞与代码审计
+	- [2x03JavaServlet——Servlet生命周期](./2x00JavaServlet/2x03JavaServlet——Servlet生命周期.md)
+	- [2x04JavaServlet——HttpServletRequest对象](./2x00JavaServlet/2x04JavaServlet——HttpServletRequest对象.md)
+1. Java框架
+2. Java安全漏洞与代码审计

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2x00JavaServlet/2x04JavaServlet——HttpServletRequest对象.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 379.5
   },
   "right": {
     "id": "5c22429ecb8fa92a",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2x00JavaServlet/2x04JavaServlet——HttpServletRequest对象.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2x00JavaServlet/2x04JavaServlet——HttpServletRequest对象.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2x00JavaServlet/2x04JavaServlet——HttpServletRequest对象.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,14 +160,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6b597c0e924a5a16",
+  "active": "a72fc9b009a9bfd0",
   "lastOpenFiles": [
+    "2x00JavaServlet/2x04JavaServlet——HttpServletRequest对象.md",
     "2x00JavaServlet/img/4/2.png",
     "2x00JavaServlet/img/4/1.png",
     "2x00JavaServlet/img/4",
     "2x00JavaServlet/img/新建文件夹",
     "2x00JavaServlet/2x02JavaServlet——vscode配置maven与Servlet环境.md",
-    "2x00JavaServlet/2x04JavaServlet——HttpServletRequest对象.md",
     "2x00JavaServlet/2x03JavaServlet——Servlet生命周期.md",
     "2x00JavaServlet/2x01JavaServlet——Servlet概述.md",
     "2x00JavaServlet/img/2/19.png",
@@ -182,7 +183,6 @@
     "2x00JavaServlet/img/2/15.png",
     "2x00JavaServlet/img/2/14.png",
     "2x00JavaServlet/img/2/13.png",
-    "2x00JavaServlet/img/2/12.png",
     "2x00JavaServlet/img/2",
     "2x00JavaServlet/img",
     "2x00JavaServlet/新建文件夹",
