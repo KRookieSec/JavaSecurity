@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2x00JavaServlet/3x03JavaServlet——Servlet生命周期.md",
+                "file": "2x00JavaServlet/2x04JavaServlet——HttpServletRequest对象.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2x00JavaServlet/3x03JavaServlet——Servlet生命周期.md",
+                "file": "2x00JavaServlet/2x04JavaServlet——HttpServletRequest对象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2x00JavaServlet/3x03JavaServlet——Servlet生命周期.md",
+                "file": "2x00JavaServlet/2x04JavaServlet——HttpServletRequest对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2x00JavaServlet/3x03JavaServlet——Servlet生命周期.md"
+                "file": "2x00JavaServlet/2x04JavaServlet——HttpServletRequest对象.md"
               }
             }
           }
@@ -159,10 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6b597c0e924a5a16",
+  "active": "b7fa66ca19112df4",
   "lastOpenFiles": [
+    "2x00JavaServlet/2x03JavaServlet——Servlet生命周期.md",
+    "2x00JavaServlet/2x04JavaServlet——HttpServletRequest对象.md",
     "2x00JavaServlet/2x02JavaServlet——vscode配置maven与Servlet环境.md",
-    "2x00JavaServlet/3x03JavaServlet——Servlet生命周期.md",
     "2x00JavaServlet/img/2/19.png",
     "1x00JavaSE/1x08JavaSE——注释与javadoc文档注释.md",
     "README.md",
@@ -201,7 +202,6 @@
     "1x00JavaSE/1x14JavaSE——日期时间.md",
     "1x00JavaSE/1x13JavaSE——数组.md",
     "1x00JavaSE/1x12JavaSE——String类StringBuffer类和StringBuilder类.md",
-    "1x00JavaSE/1x11JavaSE——Number和Math类.md",
-    "1x00JavaSE/1x10JavaSE——条件语句.md"
+    "1x00JavaSE/1x11JavaSE——Number和Math类.md"
   ]
 }
